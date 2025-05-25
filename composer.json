@@ -5,7 +5,7 @@
         "Dynamik",
         "laravel",
         "db-chart",
-        "mermaid",
+        "mermaid"
     ],
     "version": "v0.1.0",
     "homepage": "https://github.com/dynamik-dev/db-chart",
